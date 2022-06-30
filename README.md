@@ -8,5 +8,6 @@
 - Open the following endpoints:
 - /tickets/{id}
 - /destinations/check-in?destinationId={id}&baggageId={id}
-- Mock DB is in src/main/java/test/application/flightapp/db/Storage.java
+- /coupons/price?couponId={id}&price={your price}
+- Mock DB is in this file ```src/main/java/test/application/flightapp/db/Storage.java```
 - Take data to test application from this DB
